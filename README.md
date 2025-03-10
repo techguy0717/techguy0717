@@ -1,5 +1,6 @@
 # About me:
 🚀 Expert in AI, Machine Learning, Deep Learning, NLP, Data Science
+
 🚀 Specialist in JavaScript Frameworks & Python Development
 
 ## What makes me be closer to clients:
